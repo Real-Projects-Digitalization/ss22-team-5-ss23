@@ -1,9 +1,9 @@
-[Logo](https://github.com/Real-Projects-Digitalization/ss22-team-5-ss23/blob/main/2023_05_16-Logo.png)
+[Logo](2023_05_16-Logo.png)
 
 # TransitTrail
 
 ## The Story
-[Storyboard](https://github.com/Real-Projects-Digitalization/ss22-team-5-ss23/blob/main/StoryboardV2.png)
+[Storyboard](https://raw.githubusercontent.com/Real-Projects-Digitalization/ss22-team-5-ss23/main/2023_05_16-Logo.png?token=GHSAT0AAAAAACDC3WL6W5YCS2RX7J373OREZDPK33Q)
 Niam(mother), Kami (father) and Miria (child) are standing at a bus stop in Germany. They have recently arrived in the country as a refugee family and want to use public transportation to get to the shelter. But they have trouble understanding the instructions on the timetables and are unsure which bus to take.
 
 The family asks a pedestrian for help, but the man doesn't speak English and doesn't understand their mother language. They feel helpless and lost.
