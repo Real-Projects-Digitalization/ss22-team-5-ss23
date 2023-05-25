@@ -3,7 +3,9 @@
 # TransitTrail
 
 ## The Story
+
 ![StoryboardV2](https://github.com/Real-Projects-Digitalization/ss22-team-5-ss23/blob/main/StoryboardV2.png)
+
 Niam(mother), Kami (father) and Miria (child) are standing at a bus stop in Germany. They have recently arrived in the country as a refugee family and want to use public transportation to get to the shelter. But they have trouble understanding the instructions on the timetables and are unsure which bus to take.
 
 The family asks a pedestrian for help, but the man doesn't speak English and doesn't understand their mother language. They feel helpless and lost.
