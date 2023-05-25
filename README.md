@@ -1,8 +1,8 @@
 ![Logo](https://github.com/Real-Projects-Digitalization/ss22-team-5-ss23/blob/main/2023_05_16-Logo.png)
 
-# Digital Mavericks
+# TransitTrail
 
-# The Story
+## The Story
 ![Storyboard](https://github.com/Real-Projects-Digitalization/ss22-team-5-ss23/blob/main/StoryboardV2.png)
 Niam(mother), Kami (father) and Miria (child) are standing at a bus stop in Germany. They have recently arrived in the country as a refugee family and want to use public transportation to get to the shelter. But they have trouble understanding the instructions on the timetables and are unsure which bus to take.
 
@@ -14,10 +14,10 @@ The app shows them not only the exact bus they need to take, but also how to buy
 
 They take the bus and arrive at their destination without any further problems. Niam, Miria, and Kami are relieved and happy to have found the help they needed to use public transportation in Germany. They feel a little more arrived in their new home.
 
-# The Prototype
+## The Prototype
 [View the Prototype](https://www.figma.com/proto/totawtIjV2GnzCP89MHO1a/Team-Canvas?type=design&node-id=142-1385&scaling=scale-down&page-id=106%3A8&starting-point-node-id=142%3A1385)
 
-
+## Further information
 We hope you are interested and want to learn more about our product. Feel free to explore our repository and Wiki.
 
 Github Startpage: https://real-projects-digitalization.github.io/ss22-team-5-ss23/
