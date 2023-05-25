@@ -23,6 +23,14 @@ They take the bus and arrive at their destination without any further problems. 
 ## The Prototype
 [View the final Prototype](https://www.figma.com/proto/totawtIjV2GnzCP89MHO1a/Team-Canvas?type=design&node-id=142-1385&scaling=scale-down&page-id=106%3A8&starting-point-node-id=142%3A1385)
 
+## The Team
+Name | Surname | University | Faculty | City
+-- | -- | -- | -- | --
+David | Fuchs | HM München | FK07 | Munich
+Donel | Lutete | HM München | FK10 | Munich
+Katharina | Kotz | HM München | FK07 | Munich
+Vijay | Dawn | HM München | FK07 | Munich
+
 ## Further information
 We hope you are interested and want to learn more about our product. Feel free to explore our repository and Wiki.
 
