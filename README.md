@@ -18,7 +18,7 @@ They take the bus and arrive at their destination without any further problems. 
 
 
 ## The solution
-### Validation
+
 
 ## The Prototype
 [View the final Prototype](https://www.figma.com/proto/totawtIjV2GnzCP89MHO1a/Team-Canvas?type=design&node-id=142-1385&scaling=scale-down&page-id=106%3A8&starting-point-node-id=142%3A1385)
@@ -34,6 +34,6 @@ Vijay | Dawn | HM München | FK07 | Munich
 ## Further information
 We hope you are interested and want to learn more about our product. Feel free to explore our repository and Wiki.
 
-Github Startpage: https://real-projects-digitalization.github.io/ss22-team-5-ss23/
+Github Startpage: ![https://real-projects-digitalization.github.io/ss22-team-5-ss23/](https://real-projects-digitalization.github.io/ss22-team-5-ss23/)
 
-Git Wiki: https://github.com/Real-Projects-Digitalization/ss22-team-5-ss23/wiki
+Git Wiki: ![https://github.com/Real-Projects-Digitalization/ss22-team-5-ss23/wiki](https://github.com/Real-Projects-Digitalization/ss22-team-5-ss23/wiki)
