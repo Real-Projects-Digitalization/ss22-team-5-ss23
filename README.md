@@ -1,4 +1,4 @@
-![Logo](2023_05_16-Logo.png)
+![Logo](https://github.com/Real-Projects-Digitalization/ss22-team-5-ss23/blob/main/2023_05_16-Logo.png)
 
 # TransitTrail
 
