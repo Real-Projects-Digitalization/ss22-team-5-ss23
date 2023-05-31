@@ -3,7 +3,7 @@
 # TransitTrail
 
 Hello there and welcome to Digital Mavericks. With our new innovative app, TransitTrail, we offer a simple solution for refugees to navigate Munich and the rural area with ease. Our app provides specific language option, ticket guidance, and behavior guidelines to ensure a smooth travel experience.
-Digital Mavericks is a young start-up that emerged after participating in a student competition organized by Hochschule München and the Bavarian Red Cross. Our mission is to support refugees in navigating through Munich and rural areas effortlessly. The TransitTrail app offers comprehensive guidance on purchasing the right tickets and behaving appropriately in public transportation, making it an invaluable resource
+We are a young start-up that emerged after participating in a student competition organized by Hochschule München and the Bavarian Red Cross. Our mission is to support refugees in navigating through Munich and rural areas effortlessly. The TransitTrail app offers comprehensive navigation and guidance on purchasing the right tickets and behaving appropriately in public transportation. For refugees, TransitTrail offers a comprehensive all-in-one solution for public transportation. Instead of relying on multiple apps or sources for different aspects of their journey, TransitTrail provides everything they need in a single, user-friendly platform. How it works? Our storyboard will introduce our work to you.
 
 ## The Story
 
