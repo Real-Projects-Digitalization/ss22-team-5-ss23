@@ -1,5 +1,5 @@
-![Logo](https://github.com/Real-Projects-Digitalization/ss22-team-5-ss23/blob/main/2023_05_16-Logo.png)
-<img src="https://raw.githubusercontent.com/Real-Projects-Digitalization/ss22-team-5-ss23/blob/main/2023_05_16-Logo.png" alt="Logo" class="inline"/>
+![Logo](https://github.com/Real-Projects-Digitalization/ss22-team-5-ss23/blob/main/HMW2.png)
+<img src="https://github.com/Real-Projects-Digitalization/ss22-team-5-ss23/blob/main/2023_05_16-Logo.png" alt="Logo" class="inline"/>
 
 # TransitTrail
 
