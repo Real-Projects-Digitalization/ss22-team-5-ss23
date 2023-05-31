@@ -1,5 +1,4 @@
 <img src="./2023_05_16-Logo.png" alt="Logo" class="inline"/>
-<img src="./HMW2.PNG" alt="Logo" />
 
 # TransitTrail
 
@@ -8,7 +7,8 @@ We are a young start-up that emerged after participating in a student competitio
 
 ## The Story
 
-![StoryboardV2](https://github.com/Real-Projects-Digitalization/ss22-team-5-ss23/blob/main/StoryboardV2.png)
+<img src="./StoryboardV2.png" alt="StoryboardV2" class="inline"/>
+
 
 Niam(mother), Kami (father) and Miria (child) are standing at a bus stop in Germany. They have recently arrived in the country as a refugee family and want to use public transportation to get to the shelter. But they have trouble understanding the instructions on the timetables and are unsure which bus to take.
 
