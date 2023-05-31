@@ -31,6 +31,7 @@ Experience the power of TransitTrail - the innovative app designed to revolution
 [View the final Prototype](https://www.figma.com/proto/totawtIjV2GnzCP89MHO1a/Team-Canvas?type=design&node-id=142-1385&scaling=scale-down&page-id=106%3A8&starting-point-node-id=142%3A1385)
 
 ## The Team
+
 <table>
   <tr>
     <th> Name </th>
