@@ -26,6 +26,7 @@ They take the bus and arrive at their destination without any further problems. 
 Our solution is designed as a user-friendly app with intuitive interface and features. It incorporates multilingual support to cater to diverse language needs, offers clear and step-by-step navigation instructions, provides comprehensive information on ticket types and prices, and includes guidelines on proper behavior in public transportation. The design focuses on simplicity, accessibility, and addressing the specific needs of refugees to ensure a seamless and inclusive experience.
 
 ## The Prototype
+Experience the power of TransitTrail - the innovative app designed to revolutionize the public transportation journey for refugees. Try it now and discover how it simplifies their travel experience.
 [View the final Prototype](https://www.figma.com/proto/totawtIjV2GnzCP89MHO1a/Team-Canvas?type=design&node-id=142-1385&scaling=scale-down&page-id=106%3A8&starting-point-node-id=142%3A1385)
 
 ## The Team
