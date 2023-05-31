@@ -23,7 +23,7 @@ They take the bus and arrive at their destination without any further problems. 
 "How might we provide refugees with a user-friendly and accessible solution to overcome language barriers, navigate complex transportation systems, understand ticketing options, and learn appropriate behavior in order to enhance their mobility and integration?"
 
 ## The solution
-
+Our solution is designed as a user-friendly app with intuitive interface and features. It incorporates multilingual support to cater to diverse language needs, offers clear and step-by-step navigation instructions, provides comprehensive information on ticket types and prices, and includes guidelines on proper behavior in public transportation. The design focuses on simplicity, accessibility, and addressing the specific needs of refugees to ensure a seamless and inclusive experience.
 
 ## The Prototype
 [View the final Prototype](https://www.figma.com/proto/totawtIjV2GnzCP89MHO1a/Team-Canvas?type=design&node-id=142-1385&scaling=scale-down&page-id=106%3A8&starting-point-node-id=142%3A1385)
