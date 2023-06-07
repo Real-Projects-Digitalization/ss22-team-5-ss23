@@ -10,7 +10,7 @@ We are a young start-up that emerged after participating in a student competitio
 <img src="./StoryboardV2.png" alt="StoryboardV2" class="inline"/>
 
 
-Niam(mother), Kami (father) and Miria (child) are standing at a bus stop in Germany. They have recently arrived in the country as a refugee family and want to use public transportation to get to the shelter. But they have trouble understanding the instructions on the timetables and are unsure which bus to take.
+Niam(mother), Kami (father) and Ahmet (child) are standing at a bus stop in Germany (Munich). They have recently arrived in the country as a refugee family and want to use public transportation to get to the shelter. But they have trouble understanding the instructions on the timetables and are unsure which bus to take.
 
 The family asks a pedestrian for help, but the man doesn't speak English and doesn't understand their mother language. They feel helpless and lost.
 
