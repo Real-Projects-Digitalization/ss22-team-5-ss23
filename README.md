@@ -16,9 +16,9 @@ The family asks a pedestrian for help, but the man doesn't speak English and doe
 
 A few minutes later, Niam remembers that the Bavarian Red Cross (BRK) had recommended an app to help them find their way around public transportation. They open the app on their smartphone and enter the destination address.
 
-The app shows them not only the exact bus they need to take, but also how to buy the ticket and where to board the bus. Miria and Kami are relieved and grateful for the help they received from the "TransitTrail" app. Niam buys the ticket through the app and shows her child where to sit on the bus.
+The app shows them not only the exact bus they need to take, but also how to buy the ticket and where to board the bus. Ahmed and Kami are relieved and grateful for the help they received from the "TransitTrail" app. Niam buys the ticket through the app and shows her child where to sit on the bus.
 
-They take the bus and arrive at their destination without any further problems. Niam, Miria, and Kami are relieved and happy to have found the help they needed to use public transportation in Germany. They feel a little more arrived in their new home.
+They take the bus and arrive at their destination without any further problems. Niam, Ahmed, and Kami are relieved and happy to have found the help they needed to use public transportation in Germany. They feel a little more arrived in their new home.
 
 ## The problem
 "How might we provide refugees with a user-friendly and accessible solution to overcome language barriers, navigate complex transportation systems, understand ticketing options, and learn appropriate behavior in order to enhance their mobility and integration?"
