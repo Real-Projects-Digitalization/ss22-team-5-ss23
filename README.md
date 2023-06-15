@@ -7,7 +7,7 @@ We are a young start-up that emerged after participating in a student competitio
 
 ## The Story
 
-<img src="./StoryboardV2.png" alt="StoryboardV2" class="inline"/>
+<img src="./2023_04_30-StoryboardV2.png" alt="StoryboardV2" class="inline"/>
 
 
 Niam(mother), Kami (father) and Ahmet (child) are standing at a bus stop in Germany (Munich). They have recently arrived in the country as a refugee family and want to use public transportation to get to the shelter. But they have trouble understanding the instructions on the timetables and are unsure which bus to take.
