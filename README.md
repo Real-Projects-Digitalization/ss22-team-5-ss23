@@ -30,46 +30,6 @@ Our solution is designed as a user-friendly app with intuitive interface and fea
 Experience the power of TransitTrail - the innovative app designed to revolutionize the public transportation journey for refugees. Try it now and discover how it simplifies their travel experience --> 
 [View the final Prototype](https://www.figma.com/proto/totawtIjV2GnzCP89MHO1a/Team-Canvas?type=design&node-id=142-1385&scaling=scale-down&page-id=106%3A8&starting-point-node-id=142%3A1385)
 
-## The Team
-
-<table>
-  <tr>
-    <th> Name </th>
-    <th> Surname </th>
-    <th> University </th>
-    <th> Faculty </th>
-    <th> City </th>
-  </tr>
-  <tr>
-    <td> David </td>
-    <td> Fuchs </td>
-    <td> University of Applied Sciences Munich </td>
-    <td> FK07 </td>
-    <td> Munich </td>
-  </tr>
-  <tr>
-    <td> Donel </td>
-    <td> Lutete </td>
-    <td> University of Applied Sciences Munich </td>
-    <td> FK10 </td>
-    <td> Munich </td>
-  </tr>
-  <tr>
-    <td> Katharina </td>
-    <td> Kotz </td>
-    <td> University of Applied Sciences Munich </td>
-    <td> FK07 </td>
-    <td> Munich </td>
-  </tr>
-  <tr>
-    <td> Vijay </td>
-    <td> Dawn </td>
-    <td> University of Applied Sciences Munich </td>
-    <td> FK07 </td>
-    <td> Munich </td>
-  </tr>
-</table>
-
 ## Further information
 We hope you are interested and want to learn more about our product. Feel free to explore our repository and Wiki.
 
